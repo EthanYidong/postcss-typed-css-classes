@@ -4,6 +4,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 [UNRELEASED]
 
+- update rust_generator escapeClassName to support leading numbers and decimal points
+
 [0.2.2]
 
 - Remove comments from struct and dedup
